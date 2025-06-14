@@ -1,13 +1,11 @@
 -- made by cosmnik_ --
 
-dash ^2 crumble ^1
 jump ^101
-    dash ^0 spinner dash ^1 spinner
-trigspike $^0 ^102
-    dash ^2
+    dash ^1 spinner dash ^0 spinner
+trigspike $^1 ^102
+    crumble ^1
     spring ^101
 jump ^102
-dash ^0
 
 -- printing --
 reload
